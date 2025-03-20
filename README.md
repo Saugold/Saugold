@@ -1,6 +1,5 @@
 ### Ola, Pode entrar, só não repara na bagunça 😅
 
-🖥️ Portfólio Web: https://saugold.github.io/Douglas-Portfolio/main
 🎮 Portfólio Jogos: https://saugold.itch.io/   
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglx9898@gmail.com?subject=Ol%C3%A1)
